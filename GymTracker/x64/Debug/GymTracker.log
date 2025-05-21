@@ -1,0 +1,7 @@
+﻿  funkcije.c
+C:\Users\mateo\source\repos\GymTracker\GymTracker\funkcije.c(232,27): warning C4028: formal parameter 1 different from declaration
+C:\Users\mateo\source\repos\GymTracker\GymTracker\funkcije.c(244,25): warning C4013: 'binarnaPretraga' undefined; assuming extern returning int
+  main.c
+C:\Users\mateo\source\repos\GymTracker\GymTracker\main.c(73,11): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+  Generating Code...
+  GymTracker.vcxproj -> C:\Users\mateo\source\repos\GymTracker\x64\Debug\GymTracker.exe
